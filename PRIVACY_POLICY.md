@@ -50,7 +50,7 @@ You have the right to:
 - **Data Portability**: Request a copy of your data in a machine-readable format
 - **Opt-Out**: Unsubscribe from non-essential communications
 
-To exercise these rights, contact us at [your-email@example.com] or delete your account through the app settings.
+To exercise these rights, contact us at [justinmctackett@gmail.com] or delete your account through the app settings.
 
 ## Data Retention
 
