@@ -65,6 +65,9 @@ Finance Tracker is not intended for use by children under the age of 13. We do n
 Our app uses the following third-party services:
 - **Supabase**: For authentication and database services. View their privacy policy at https://supabase.com/privacy
 
+ ## Ads services
+ - This app may contains ads
+
 ## Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy. Continued use of the app after changes constitutes acceptance of the updated policy.
