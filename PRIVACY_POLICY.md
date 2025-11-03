@@ -15,6 +15,7 @@ Finance Tracker ("we", "our", or "us") is committed to protecting your privacy. 
 ### Automatically Collected Information
 - **Usage Data**: Information about how you interact with the app
 - **Device Information**: Device type, operating system version, and app version
+- **Advertising Data**: Anonymous identifiers and ad interaction data for serving personalized advertisements
 
 ## How We Use Your Information
 
@@ -25,6 +26,8 @@ We use your information to:
 - Send important notifications about your bills and payments
 - Improve and optimize app performance
 - Provide customer support
+- Display relevant advertisements through Google AdMob
+- Analyze advertising performance and user engagement
 
 ## Data Storage and Security
 
@@ -40,6 +43,7 @@ We do not sell, trade, or rent your personal information to third parties. We ma
 - **With Your Consent**: When you explicitly authorize us to share specific information
 - **Legal Requirements**: When required by law, court order, or governmental authority
 - **Service Providers**: With trusted service providers (such as Supabase) who help us operate our service, under strict confidentiality agreements
+- **Advertising Partners**: Anonymous identifiers and usage data may be shared with Google AdMob for advertising purposes. No personally identifiable financial information is shared with advertising partners
 
 ## Your Rights and Choices
 
@@ -60,13 +64,27 @@ We retain your personal information for as long as your account is active or as 
 
 Finance Tracker is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete it immediately.
 
+## Advertising
+
+Finance Tracker displays advertisements provided by Google AdMob to support the free version of the app.
+
+### Google AdMob
+- We use Google AdMob to serve advertisements within the app
+- AdMob may collect and use data to provide personalized ads based on your interests
+- AdMob uses advertising identifiers and may track ad interactions
+- You can opt out of personalized advertising in your device settings:
+  - **Android**: Settings > Google > Ads > Opt out of Ads Personalization
+  - **iOS**: Settings > Privacy > Advertising > Limit Ad Tracking
+
+For more information about how Google uses data, visit:
+- Google's Privacy Policy: https://policies.google.com/privacy
+- Google's Advertising page: https://policies.google.com/technologies/ads
+
 ## Third-Party Services
 
 Our app uses the following third-party services:
 - **Supabase**: For authentication and database services. View their privacy policy at https://supabase.com/privacy
-
- ## Ads services
- - This app may contains ads
+- **Google AdMob**: For serving advertisements. View their privacy policy at https://policies.google.com/privacy
 
 ## Changes to This Privacy Policy
 
@@ -84,7 +102,3 @@ By using Finance Tracker, you consent to this Privacy Policy and agree to its te
 
 ---
 
-**Note**: This is a general privacy policy template. You should:
-1. Replace [your-email@example.com] with your actual contact email
-2. Review with a legal professional to ensure compliance with applicable laws (GDPR, CCPA, etc.)
-3. Adjust based on your specific data practices and jurisdiction
